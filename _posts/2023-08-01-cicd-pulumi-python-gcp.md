@@ -1,6 +1,6 @@
 ---
 title: "Using Pulumui Python in CI/CD on Google Cloud Platform"
-date: 2023-08-11:34:30+12:00
+date: 2023-08-01T11:34:30+12:00
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
